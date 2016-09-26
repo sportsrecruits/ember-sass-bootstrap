@@ -41,7 +41,7 @@
     "ember-addon"
   ],
   "dependencies": {
-    "bootstrap-sass": "^3.3.6",
+    "bootstrap-sass": "^3.3.7",
     "broccoli-stew": "^1.0.4",
     "ember-cli-babel": "^5.1.5"
   },
